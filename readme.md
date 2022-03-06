@@ -1,3 +1,3 @@
 # ENDPOINTS FOR PRODUCT AND VARIETIES
 
- [DOCUMENTATION]https://documenter.getpostman.com/view/19330071/UVkvKYL9
+ [DOCUMENTATION] https://documenter.getpostman.com/view/19330071/UVkvKYL9
