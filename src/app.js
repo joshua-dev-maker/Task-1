@@ -11,7 +11,7 @@ app.use("/api/v1", productRouter);
 app.use("/api/v1", varietyRouter);
 connectDb();
 
-app.post("/", (req, res) => {
+app.get("/", (req, res) => {
   res.send("welcome!!!");
 });
 
