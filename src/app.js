@@ -12,7 +12,7 @@ app.use("/api/v1", varietyRouter);
 connectDb();
 
 app.post("/", (req, res) => {
-  res.send("welcome, ");
+  res.send("welcome!!!");
 });
 
 app.listen(PORT, () => {
